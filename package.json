@@ -1,0 +1,16 @@
+{
+  "name": "api-rest-jwt",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": "https://github.com/MarcosRaiCunha/api-rest-jwt.git",
+  "author": "MarcosRaiCunha <marcosraicunha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12"
+  }
+}
